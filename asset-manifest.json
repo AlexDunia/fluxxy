@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.88c7d12b.css",
-    "main.js": "/static/js/main.19de87f5.js",
+    "main.css": "/static/css/main.0fe148a0.css",
+    "main.js": "/static/js/main.8f251ad4.js",
     "static/js/787.3893c857.chunk.js": "/static/js/787.3893c857.chunk.js",
     "static/media/watermelon.png": "/static/media/watermelon.7d7ee840dcb9c7bb2624.png",
     "static/media/fruitbasket.png": "/static/media/fruitbasket.67724ed7a4aed0a7831e.png",
@@ -16,6 +16,7 @@
     "static/media/carrot2.png": "/static/media/carrot2.9219aa53e4a70b956dbf.png",
     "static/media/beetroot2.png": "/static/media/beetroot2.2063c656b59e954e2e48.png",
     "static/media/zobo2.png": "/static/media/zobo2.2a75e58162ecff808681.png",
+    "static/media/fluxxylogo.png": "/static/media/fluxxylogo.3e0ac63e4b3300cbcd92.png",
     "static/media/immunity.png": "/static/media/immunity.218bfaea29864dd3082b.png",
     "static/media/ginger2.png": "/static/media/ginger2.e2f356aff9dd4110481b.png",
     "static/media/zobo.png": "/static/media/zobo.6d9c0517047f4feda535.png",
@@ -29,12 +30,12 @@
     "static/media/coconut.png": "/static/media/coconut.3b75cb14be098109af9a.png",
     "static/media/mockup.png": "/static/media/mockup.8de4310dd88987cce4b7.png",
     "index.html": "/index.html",
-    "main.88c7d12b.css.map": "/static/css/main.88c7d12b.css.map",
-    "main.19de87f5.js.map": "/static/js/main.19de87f5.js.map",
+    "main.0fe148a0.css.map": "/static/css/main.0fe148a0.css.map",
+    "main.8f251ad4.js.map": "/static/js/main.8f251ad4.js.map",
     "787.3893c857.chunk.js.map": "/static/js/787.3893c857.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88c7d12b.css",
-    "static/js/main.19de87f5.js"
+    "static/css/main.0fe148a0.css",
+    "static/js/main.8f251ad4.js"
   ]
 }
